@@ -114,7 +114,6 @@ void commandMAX14662(int output) {
 
 //Actuate one coil in the matrix according to coordinate, other coils are off;
 //x is row, y is column
-//Range: x:[2,26]  y:[8,21]
 void selectMatrixCoil(int x, int y) {
   commandMC33996(0);
   commandMC33996(x);
