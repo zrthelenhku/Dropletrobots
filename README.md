@@ -14,4 +14,4 @@ Expected output: The current coordinate of the activated coil will be displayed 
 Expected run time: Several minutes.
 
 4. Instructions for use: 
-The attached file "routine.ino" is for the general control of the programmable control matrix. By inputting command in the serial monitor, the coordinate of activated coils can change accordingly to move grippers. The moving path of grippers will be recorded and displayed in the serial monitor for further usage. The initial coordination can be modified in the attached code file.
+The attached file "routine.ino" is for the general control of the programmable control matrix to explore the coordinate of the moving path. By inputting command in the serial monitor, the coordinate of activated coils can change accordingly to move grippers. The moving path of grippers will be recorded and displayed in the serial monitor for further usage. The initial coordination can be modified in the attached code file.
